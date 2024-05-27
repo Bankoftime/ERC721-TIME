@@ -4,8 +4,10 @@
 <img src="TVF.jpg" width="250" height="250">
 Welcome to the TIME VISION FUND (TVF), a pioneering initiative dedicated to pushing the boundaries of human knowledge and safeguarding our planet's future. TVF is strategically divided into two distinct sub-funds: TIME VISION FUND SCIENCE (TVF-S) and TIME VISION FUND NATURE (TVF-N), each with its unique focus and mission.
 
-**TVF Wallet Address:**
+#### TVF Wallet Address:
 `0x8b32E6A77B6dE17B6CC4997214adC68ab304971d`
+
+Thank you for your support on this great mission of our time.
 
 #### TIME VISION FUND SCIENCE (TVF-S)
 
