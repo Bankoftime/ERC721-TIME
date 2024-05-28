@@ -11,7 +11,7 @@ Thank you for your support on this great mission of our time.
 
 #### TIME VISION FUND SCIENCE (TVF-S)
 
-At the forefront of scientific innovation, TVF-S is dedicated to exploring the realms of time travel technology, probing the fascinating interplay between spirituality and physical reality, advancing cutting-edge blockchain technologies, and unraveling the profound mysteries of quantum physics. Beyond Elon Musk's starship approach, TVF-S aspires to harness human psychic potential, nanotechnology, and novel materials to construct a UFO, empowering humanity to traverse time and space. By championing groundbreaking research, TVF-S endeavors to unlock new frontiers of human potential and understanding, extending humanity's boundaries across the universe.
+At the forefront of scientific innovation, TVF-S is dedicated to exploring the realms of time travel technology, probing the fascinating interplay between spirituality and physical reality, advancing cutting-edge blockchain technologies, and unraveling the profound mysteries of human consciousness and quantum physics. Beyond Elon Musk's starship approach, TVF-S aspires to harness human psychic potential, nanotechnology, and novel materials to construct a UFO, empowering humanity to traverse time and space. By championing groundbreaking research, TVF-S endeavors to unlock new frontiers of human potential and understanding, extending humanity's boundaries across the universe.
 
 #### TIME VISION FUND NATURE (TVF-N)
 
