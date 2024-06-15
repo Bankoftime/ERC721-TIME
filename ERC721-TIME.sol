@@ -22,12 +22,12 @@ contract ECR721TIME is ERC721Enumerable {
 
     uint256 public constant mintPrice = 1 * 10 ** 18;
 
-    mapping(uint8 =&gt; uint256) public depositedTimeOfId;
+    mapping(uint8 => uint256) public depositedTimeOfId;
 
     uint8 public saleCount;
     uint8[] public saleList;
-    mapping(uint256 =&gt; bool) public Listed;
-    mapping(uint8 =&gt; uint256) public listingPriceOfTime;
+    mapping(uint256 => bool) public Listed;
+    mapping(uint8 => uint256) public listingPriceOfTime;
 
     uint8 public constant depositPercent = 3;
     address public immutable Creator;
@@ -50,7 +50,7 @@ contract ECR721TIME is ERC721Enumerable {
     }
 
     function Mint(address timeOrUsd) external returns (bool) {
-        require(totalMintCount &lt; maxMintCount, 'Mint is complete');
+        require(totalMintCount < maxMintCount, 'Mint is complete');
 
         if(TIME(Time).isUSD(timeOrUsd)) {
             buyTimeHelper(mintPrice, timeOrUsd, msg.sender);
@@ -91,7 +91,7 @@ contract ECR721TIME is ERC721Enumerable {
     }
 
     function updateLists(uint8 id) internal returns (bool) {
-        for(uint8 i=0; i&lt;saleList.length ; i++) {
+        for(uint8 i=0; i < saleList.length ; i++) {
             if(saleList[i] == id) {
                 saleList[i] = saleList[saleList.length - 1];
                 saleList.pop();
