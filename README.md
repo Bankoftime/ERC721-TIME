@@ -1,4 +1,11 @@
 # ERC721-TIME
+https://time-nft.com/
+
+Mint: minting is deposited to NFT as TIME
+
+Trade: 3% of trading is deposited to NFT as TIME, 2% royalty, 1% TVF
+
+Burn: destroy NFT and retrieve all TIME deposited
 
 ### TIME VISION FUND (TVF)
 <img src="TVF.jpg" width="250" height="250">
