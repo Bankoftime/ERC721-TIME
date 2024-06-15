@@ -7,6 +7,12 @@ Trade: 3% of trading is deposited to NFT as TIME, 2% royalty, 1% TVF
 
 Burn: destroy NFT and retrieve all TIME deposited
 
+### Multiverse NFT
+
+Multiverse - Satoshi and Bitcoin 0x3006700f07ED680822919bd8F364481FaA310EcD [NFT ipfs](https://ipfs.io/ipfs/QmVGCZKLyxYWW7bCFV4oEfeTswrcRkt2YiYHwjnNcnWaZZ)
+
+Multiverse - Vitalik and Ethereum 0x20e793f83AE1D39E02F2fA219D0B0f7917CE5619 [NFT ipfs](https://ipfs.io/ipfs/QmanSoRjAo6DFveZX9FbPiGkiEd61PzAxudWZEjm7JZC6H)
+
 ### TIME VISION FUND (TVF)
 <img src="TVF.jpg" width="250" height="250">
 Welcome to the TIME VISION FUND (TVF), a pioneering initiative dedicated to pushing the boundaries of human knowledge and safeguarding our planet's future. TVF is strategically divided into two distinct sub-funds: TIME VISION FUND SCIENCE (TVF-S) and TIME VISION FUND NATURE (TVF-N), each with its unique focus and mission.
