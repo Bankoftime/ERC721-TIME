@@ -15,7 +15,7 @@ Multiverse - Vitalik and Ethereum 0x20e793f83AE1D39E02F2fA219D0B0f7917CE5619 [NF
 
 ### TIME VISION FUND (TVF)
 <img src="TVF.jpg" width="250" height="250">
-The TIME VISION FUND is a pioneering initiative dedicated to advancing human knowledge and safeguarding our planet's future, all to honor and glorify God. TVF is strategically divided into two distinct sub-funds: TIME VISION FUND SCIENCE (TVF-S) and TIME VISION FUND NATURE (TVF-N), each with its unique focus and mission.
+The TIME VISION FUND is a pioneering initiative dedicated to advancing human knowledge and safeguarding our planet's future, all as a testament to God's glory and in remembrance of His everlasting love.
 
 #### TVF Wallet Address:
 `0x8b32E6A77B6dE17B6CC4997214adC68ab304971d`
